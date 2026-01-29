@@ -12,6 +12,3 @@ This project contains advanced HTML exercises for learning web development funda
 - `latest_news.html` - Latest news page
 - `styleguide.html` - Style guide
 
-## Author
-
-Holberton School Project
